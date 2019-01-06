@@ -1,8 +1,6 @@
-<div>
-  <H1>
-    CSV Datasets<img src="CSV_datasets_logo.png" align="right" width="200">
-  </H1>
-</div>
+<H1 align="left" height=100>
+  CSV Datasets<img src="CSV_datasets_logo.png" align="right" width="200">
+</H1>
 
 This repository is a collection of datasets in CSV format.
 
