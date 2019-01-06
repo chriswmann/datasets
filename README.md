@@ -1,4 +1,4 @@
-[CSV_datasets_logo](CSV_datasets_logo.png)
+![CSV_datasets_logo](CSV_datasets_logo.png)
 # CSV Datasets
 
 This repository is a collection of datasets in CSV format.
