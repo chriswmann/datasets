@@ -1,6 +1,4 @@
-Year_of_survey
-,Men,Women
-,Percentage_estimating_they_would_survive_to_age_85,Percentage_actually_surviving_to_age_85,Percentage_estimating_they_would_survive_to_age_85,Percentage_actually_surviving_to_age_85
+Year_of_survey,Men_Percentage_estimating_they_would_survive_to_age_85,Men_Percentage_actually_surviving_to_age_85,Women_Percentage_estimating_they_would_survive_to_age_85,Women_Percentage_actually_surviving_to_age_85
 1992,39.6,27.0,45.9,44.2
 1994,38.9,27.8,43.1,46.6
 1996,41.3,29.4,46.5,45.1
