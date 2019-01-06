@@ -1,6 +1,4 @@
-![CSV_datasets_logo](CSV_datasets_logo.png)
-# CSV Datasets
-
+![CSV_datasets_logo](<img src="CSV_datasets_logo.png" width="100">) # CSV Datasets
 This repository is a collection of datasets in CSV format.
 
 I use/have used the datasets for statistical analysis and data science.
