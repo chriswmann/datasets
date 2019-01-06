@@ -1,5 +1,4 @@
-<img src="CSV_datasets_logo.png" width="120">
-<H1>CSV Datasets</H1>
+<H1>CSV Datasets <img src="CSV_datasets_logo.png" width="120"></H1>
 This repository is a collection of datasets in CSV format.
 
 I use/have used the datasets for statistical analysis and data science.
