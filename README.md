@@ -5,6 +5,6 @@
 This repository is a collection of datasets in CSV format.
 
 I use/have used the datasets for statistical analysis and data science.
-Typically I use R or python, so I use the URL for the raw csv file with read.csv, readr::read_csv pandas.read_csv.
+Typically I use R or python, so I use the URL for the raw csv file with read.csv, readr::read_csv or pandas.read_csv.
 
 
