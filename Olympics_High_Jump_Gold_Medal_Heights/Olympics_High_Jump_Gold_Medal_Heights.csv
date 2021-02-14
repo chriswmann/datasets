@@ -1,29 +1,29 @@
-﻿Year,City,,Men,Women
-1896,Athens,,1.81,
-1900,Paris,,1.9,
-1904,St. Louis,,1.8,
-1908,London,,1.9,
-1912,Stockholm,,1.93,
-2020,Antwerp,,1.8,
-1924,Paris,,1.98,
-1928,Amsterdam,,1.94,1.6
-1932,Los Angeles,,1.97,1.65
-1936,Berlin,,2.03,1.6
-1948,London,,1.98,1.68
-1952,Helsinki,,2.04,1.67
-1956,Melbourne,,2.12,1.76
-1960,Rome,,2.16,1.85
-1964,Tokyo,,2.18,1.9
-1968,Mexico City,,2.24,1.82
-1972,Munich,,2.23,1.92
-1976,Montreal,,2.25,1.93
-1980,Moscow,,2.36,1.97
-1984,Los Angeles,,2.35,2.02
-1988,Seoul,,2.38,2.03
-1992,Barcelona,,2.34,2.02
-1996,Atlanta,,2.39,2.05
-2000,Sydney,,2.35,2.01
-2004,Athens,,2.36,2.06
-2008,Beijing,,2.36,2.05
-2012,London,,2.33,2.05
-2016,Rio,,2.38,1.97
+﻿Year,City,Men,Women
+1896,Athens,1.81,
+1900,Paris,1.9,
+1904,St. Louis,1.8,
+1908,London,1.9,
+1912,Stockholm,1.93,
+2020,Antwerp,1.8,
+1924,Paris,1.98,
+1928,Amsterdam,1.94,1.6
+1932,Los Angeles,1.97,1.65
+1936,Berlin,2.03,1.6
+1948,London,1.98,1.68
+1952,Helsinki,2.04,1.67
+1956,Melbourne,2.12,1.76
+1960,Rome,2.16,1.85
+1964,Tokyo,2.18,1.9
+1968,Mexico City,2.24,1.82
+1972,Munich,2.23,1.92
+1976,Montreal,2.25,1.93
+1980,Moscow,2.36,1.97
+1984,Los Angeles,2.35,2.02
+1988,Seoul,2.38,2.03
+1992,Barcelona,2.34,2.02
+1996,Atlanta,2.39,2.05
+2000,Sydney,2.35,2.01
+2004,Athens,2.36,2.06
+2008,Beijing,2.36,2.05
+2012,London,2.33,2.05
+2016,Rio,2.38,1.97
